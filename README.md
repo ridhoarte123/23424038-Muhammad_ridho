@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Color Detection Application
 
@@ -87,3 +88,6 @@ cara menjalankan
 cd C:\Users\angga\color_detection_app
 pip install -r requirements.txt
 streamlit run app.py
+=======
+# 23424038-Muhammad_ridho
+>>>>>>> f1ca18b065ab3ce6e39b7903cdf88b078cdfa68f
