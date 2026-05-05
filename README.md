@@ -1,1 +1,1 @@
-# Minggu-8-Aplikasi-Deteksi-Warna-pada-Gambar
+# 23424038-Muhammad_ridho
